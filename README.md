@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 💬 Ask me about **Chatbot Development** or **anything Python**
+- 🌱 I’m currently learning _NodeJS_
 <!--
 **dhruv-3d/dhruv-3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
