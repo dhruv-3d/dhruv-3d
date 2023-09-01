@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 💬 Ask me about **Chatbots** or **anything Python**
+- 💬 Ask me about **Conversational AI**, **Chatbots** or **anything Python**
 - 🔭 I’m currently working on _Oracle Digital Assistant_
-- 🌱 I'm currently learning _Progressive Web Apps_
+- 🌱 I'm currently learning about _Generative AI, LLMs, LangChain, Transformer_
+
 <!--
 **dhruv-3d/dhruv-3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
