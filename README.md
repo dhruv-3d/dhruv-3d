@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💬 Ask me about **GenerativeAI**, **LLMs**, **Conversational AI**, **Chatbots** or **anything Python**
-- 🔭 I’m currently working on _building intelligent application powered by Generative LLMs_
-- 🌱 I'm currently learning about _securing LLM powered applications in production_
+- 💬 Ask me about **GenerativeAI**, **LLMs**, **Conversational AI**, **Chatbots** or **anything Python**.
+- ⚡⚡ I’m currently working on _building intelligent application powered by Generative LLMs_
+- 🌱 I'm currently learning about _fine-tuning SLMs_ and  _securing LLM powered applications in production_
 
 <!--
 **dhruv-3d/dhruv-3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
